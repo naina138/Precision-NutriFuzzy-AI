@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dataset files (Optional)
+# If your JSON files are too large for GitHub (100MB+), uncomment the lines below.
+# 1.json is ~90MB, which might trigger warnings on GitHub.
+# *.json
