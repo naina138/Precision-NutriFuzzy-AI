@@ -32,6 +32,8 @@ The system's intelligence is synthesized from a corpus of authoritative medical 
 - **🎨 Research Dashboard**: A premium **Streamlit** interface for real-time interaction and data visualization.
 
 ---
+app layout.png
+app layout2.png
 
 ## 🛠️ Technology Stack
 - **Language**: Python 3.10+
