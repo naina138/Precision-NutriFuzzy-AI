@@ -76,7 +76,7 @@ This project serves as a foundational prototype for:
    ```bash
    streamlit run app.py
    ```
-Developed by**: Naina  
-**Guided by**: Prof. Rohit Kumar  
+Developed by: Naina  
+Guided by: Prof. Rohit Kumar  
 ---
 *Created for academic excellence and research impact.*
